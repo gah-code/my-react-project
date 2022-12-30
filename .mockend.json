@@ -1,6 +1,6 @@
 {
   "User": {
-    "name": "Burrtio"
+    "name": { "string": "Burrtio" }
   },
   "Post": {},
   "Comment": {},
