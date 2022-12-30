@@ -1,5 +1,7 @@
 {
-  "User": {},
+  "User": {
+    "name": { "string": "Burrtio" }
+  },
   "Post": {},
   "Comment": {},
   "Person": {},
