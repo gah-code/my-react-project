@@ -3,7 +3,7 @@
     "name": { "string": ["Thor", "Loki"] }
   },
   "Post": {
-    "posts": [
+    "string": [
       {
         "body": "Eos culpa et voluptatem.",
         "cover": "https://picsum.photos/seed/22101/1920/270",
