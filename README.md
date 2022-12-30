@@ -1,2 +1,3 @@
 # my-react-project
- React Router v6 + Authentication & More
+
+React Router v6, Data Fetching, SPAs, Routing.
